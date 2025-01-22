@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,go,cs,bootstrap,tailwind,react,vercel,vitenodejs,nextjs,ruby,rails,bash" /> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,go,cs,bootstrap,tailwind,react,vercel,vite,nodejs,nextjs,ruby,rails,bash" /> <br>
     <img src="https://skillicons.dev/icons?i=swift,svelte,npm,mysql,postgres,postman,ps,xd,wordpress,ceros,figma,webflow,yarn,codepen,vscode,discord,github" />
   </a>
 </div>
