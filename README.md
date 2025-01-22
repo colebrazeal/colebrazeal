@@ -9,6 +9,15 @@
 - 🔍 Preview my work/skills at [coledev.co](https://coledev.co/)
 - 📫 How to reach me: coledev.co@gmail.com
 
+## Skills
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,golang,c#,bootstrap,tailwind,react" /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,ruby,swift,svelte,mysql,postgresql,photoshop,wordpress,ceros,figma" />
+  </a>
+</div>
+
 <!--
 **colebrazeal/colebrazeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
