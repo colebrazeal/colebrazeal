@@ -1,4 +1,5 @@
 ## Hi there 👋 My name is Cole Brazeal
+## Web Developer (Frontend Focused) 
 
 - 🔭 I’m currently working on obtaining my Bachelors degree in Software Engineering
 - 🌎 I’m currently located in Orlando, FL 
