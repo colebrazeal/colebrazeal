@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 My name is Cole Brazeal
+
+- 🔭 I’m currently working on obtaining my Bachelors degree in Software Engineering
+- 🌎 I’m currently located in Orlando, FL 
+- 👯 I’m looking to collaborate on anything Frontend focused
+- 🤔 I’m looking for help with Blockhain and Backend development
+- 💬 Ask me about ANYTHING lol
+- 📫 How to reach me: coledev.co@gmail.com
 
 <!--
 **colebrazeal/colebrazeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
