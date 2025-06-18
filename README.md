@@ -12,7 +12,6 @@
 - 🌎 I’m currently located in Orlando, FL 
 - 👯 I’m looking to collaborate on anything Frontend focused
 - 🤔 I’m looking for help with Blockhain and Backend development
-- 💬 Ask me about ANYTHING lol
 - 🔍 Preview my work/skills at [coledev.co](https://coledev.co/)
 - 📫 How to reach me: coledev.co@gmail.com
 
